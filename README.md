@@ -1,4 +1,3 @@
-# Text Mining 2021: In Class
+# Text Mining: In Class
 
-I'll use this repository to hold any in-class code I want to pass your way. 
-
+We'll use this repository to hold any in-class code we write. 
