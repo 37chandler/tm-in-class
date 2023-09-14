@@ -1,6 +1,5 @@
-*.txt
-*.csv
-*.db
+/data/*
+data.zip
 
 .DS_Store
 
