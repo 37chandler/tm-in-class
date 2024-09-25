@@ -1,6 +1,7 @@
 /data/*
 data.zip
 .venv
+*.db
 
 *Solution*
 
